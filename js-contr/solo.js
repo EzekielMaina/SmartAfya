@@ -7,7 +7,7 @@ const simpleGit=require('simple-git');
 const FILE_PATH='solo.json';
 
 
-const DATE=moment().subtract(20,'d').format();
+const DATE=moment().subtract(0,'d').format();
 
 const data={
               date:DATE
