@@ -1,0 +1,25 @@
+ Text(
+                    'Maridadi Car Hire Management System: I developed a car hire management system for a local car rental company. The system allows customers to browse available cars, make reservations, and manage their bookings online. With the implementation of the system it was proven that a company would have a significant increase in bookings thus increase in earnings.',
+                    style: TextStyle(fontSize: 16),
+                  ),
+                  SizedBox(height: 16),
+                  Text(
+                    'Talk of the Management System: I also developed a management system for a local talk radio station. The system allows producers to schedule guests, manage show topics, and track listener engagement. The station has seen a significant increase in listener engagement since the system was implemented.',
+                    style: TextStyle(fontSize: 16),
+                  ),
+
+
+
+
+
+                  Dear [Supervisor's Name],
+
+I wanted to take a moment to express my heartfelt gratitude to you for being such an amazing project supervisor. Your guidance, support, and encouragement have made a huge impact on me and have helped me grow both personally and professionally.
+
+Throughout this project, you have been an incredible source of inspiration for me. Your unwavering commitment to excellence and your passion for the work that we do has motivated me to push myself to new heights and strive for excellence in everything that I do.
+
+I am so grateful for the time and energy that you have invested in me, and I feel truly blessed to have had the opportunity to work with someone as talented and dedicated as you. Your insights, feedback, and guidance have been invaluable to me, and I know that I will carry the lessons that I have learned from you with me for the rest of my career.
+
+Thank you so much for all that you have done for me. You have truly made a difference in my life, and I will always be grateful to you for your kindness, your wisdom, and your unwavering support.
+
+With heartfelt thanks and warmest regards,

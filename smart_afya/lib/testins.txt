@@ -1,0 +1,48 @@
+InkWell(
+                onTap: () {
+                  _showExerciseAlert('Bend Stretch Jumps',
+                      'assets/bendstretchjumps.gif', 'assets/bendjumping.png');
+                },
+                child: _buildExerciseCard(
+                    'Bend Stretch Jumps', 'assets/bendstretchjumps.png'),
+              ),
+              InkWell(
+                onTap: () {
+                  _showExerciseAlert('Leg Stretches', 'assets/crabwalk.gif',
+                      'assets/legstretch.png');
+                },
+                child:
+                    _buildExerciseCard('Crab Walks', 'assets/legstretch.png'),
+              ),
+              InkWell(
+                onTap: () {
+                  _showExerciseAlert('Squats', 'assets/squat-animated.gif',
+                      'assets/squat-animated.png');
+                },
+                child:
+                    _buildExerciseCard('Squats', 'assets/squat-animated.png'),
+              ),
+              InkWell(
+                onTap: () {
+                  _showExerciseAlert('Rope Skipping', 'assets/skipping.gif',
+                      'assets/ruka.png');
+                },
+                child:
+                    _buildExerciseCard('Rope Skipping', 'assets/skipping.png'),
+              ),
+              InkWell(
+                onTap: () {
+                  _showExerciseAlert('Side Twist', 'assets/sidetwists.gif',
+                      'assets/sidetwists.png');
+                },
+                child:
+                    _buildExerciseCard('Side Twist', 'assets/sidetwists.png'),
+              ),
+              InkWell(
+                onTap: () {
+                  _showExerciseAlert('Toe Charges', 'assets/toecharge.gif',
+                      'assets/toecharge.png');
+                },
+                child:
+                    _buildExerciseCard('Toe Charges', 'assets/toecharge.png'),
+              ),
